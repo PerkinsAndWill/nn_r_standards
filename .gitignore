@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Sample project folders, these will be uploaded to AWS
+sample-generic-project-folder/*
+sample-shiny-app-project-folder/*
