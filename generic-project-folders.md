@@ -1,5 +1,6 @@
 # Notes
 
+-   Download a [sample folder here.](https://nn-r-resources.s3.us-west-2.amazonaws.com/sample-generic-project-folder.zip) Note that it must be unzipped/extracted.
 -   If your project contains one or more Shiny applications, please refer to the [Shiny application project template](https://github.com/PerkinsAndWill/nn_r_standards/blob/main/shiny-app-folders.md) for those sub-folders. If your project is *only* a shiny application, you can proceed directly to that template.
 -   If you have many folders and/or scripts, it is helpful to label them with a number to indicate the order in which they should be run, e.g., 1-first-script.R, 2-second-script.R.
 -   There are some additional hidden files (.git, .gitignore) that will appear when you initiate a Git repository within the project folder. For some quick instructions on how to initiate a Git version control repository within your R project, refer to [this page and select the tutorial that best matches your situation.](https://happygitwithr.com/usage-intro.html)

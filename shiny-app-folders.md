@@ -1,5 +1,6 @@
 # Notes
 
+-   Download a [sample folder here.](https://nn-r-resources.s3.us-west-2.amazonaws.com/sample-shiny-app-project-folder.zip) Note that it must be unzipped/extracted.
 -   We recommend all Shiny apps use the multi-file configuration (e.g., ui.R, server.R, and global.R), as opposed to the one file option.
 -   Please add subfolders to any of the folders laid out below as makes sense based on the complexity of your project. For example, if you have data over the course of multiple time periods, e.g., 2019 and 2020, it might make sense to have 2019 and 2020 subfolders.
 -   If your Shiny application is a subfolder of a larger project that includes more than just a Shiny application, please refer back to the [generic project folder template](https://github.com/PerkinsAndWill/nn_r_standards/blob/main/generic-project-folders.md).
